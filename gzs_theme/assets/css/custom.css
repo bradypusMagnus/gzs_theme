@@ -1,0 +1,6 @@
+		div .nav-links {
+			text-align: center;
+		}
+		div .nav-links > * {
+			padding: 2em;
+		}
